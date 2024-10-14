@@ -1,5 +1,5 @@
 ## ✍️Tổng quan
-Sinh viên năm 3 chuyên ngành Công nghệ phần mềm thuộc Khoa Công nghệ thông tin, Trường Đại học Nha Trang.
+Sinh viên năm 4 chuyên ngành Công nghệ phần mềm thuộc Khoa Công nghệ thông tin, Trường Đại học Nha Trang.
 ## 🌐Mạng xã hội
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/linh.sama.50/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_lvlinh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linh-l%C6%B0%C6%A1ng-679ba9275/) 
 
