@@ -1,10 +1,6 @@
-![Master](https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif)
-
 <h1 align="center">Hi 👋, I'm Luong Van Linh</h1>
 <h3 align="center">A passionate Front-end Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://www.facebook.com/linh.sama.50/" target="blank"><img src="https://blog.postman.com/wp-content/uploads/2020/07/API-101-What-Is-a-REST-API-scaled.jpg" alt="rishavchanda"> </p>
+<img align="right" alt="Coding"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- - 🔭 I’m currently working on **Vexa Web App** -->
 
