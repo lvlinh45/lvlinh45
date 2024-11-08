@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luong Van Linh</h1>
 <h3 align="center">A passionate Front-end Developer</h3>
-<img align="right" alt="Coding"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+![Master](https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif)
 
 <!-- - 🔭 I’m currently working on **Vexa Web App** -->
 
