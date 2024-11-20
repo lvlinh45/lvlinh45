@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/linh-l%C6%B0%C6%A1ng-679ba9275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lvlinh-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_lvlinh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lvlinh-ins" height="30" width="40" /></a>
+<a href="https://www.instagram.com/charles.luong.1404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lvlinh-ins" height="30" width="40" /></a>
 <a href="https://www.facebook.com/linh.sama.50/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="lvlinh-fb" height="30" width="40" /></a>
 </p>
 
