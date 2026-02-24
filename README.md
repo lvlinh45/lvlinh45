@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luong Van Linh</h1>
-<h3 align="center">A passionate Front-end Developer</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <!-- ![Master](https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif) -->
 <img align="center" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" alt="logo"  width="846" />
