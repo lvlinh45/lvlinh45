@@ -47,12 +47,7 @@ Explore full papers and updates on [ResearchGate](https://www.researchgate.net/p
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=lvlinh45&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvlinh45&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=lvlinh45&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
