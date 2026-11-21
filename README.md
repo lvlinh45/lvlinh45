@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luong Van Linh</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%E2%80%A2+M.Sc.+Student+in+Computer+Science;Architecting+scalable+web+systems+end-to-end;Bridging+Web+Engineering+%26+Real-Time+Computer+Vision" alt="Full-Stack Developer tagline" />
+  <img src="./assets/banner.gif" alt="Luong Van Linh - Full-Stack Developer & AI Researcher" width="860" />
 </div>
 
 <p align="center">
@@ -16,19 +14,15 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="./assets/banner.gif" alt="Luong Van Linh - Full-Stack Developer & AI Researcher" width="860" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** and **Master's Student in Computer Science** (B.Sc. alumnus from the Faculty of Information Technology, **Nha Trang University**). My work bridges production web engineering with applied AI research—turning computer vision and deep learning models into practical, scalable systems.
+I'm a **Full-Stack Developer** and **Master's Student in Computer Science** (B.Sc. alumnus in Information Technology, **Nha Trang University**).
 
-- 🎓 **Graduate Research:** Focusing on **Computer Vision**, **Deep Learning**, and real-time facial/behavioral analysis systems.
-- 💻 **Full-Stack Engineering:** Designing end-to-end web architectures—from responsive interfaces and modular APIs to reliable data layers and containerized cloud deployments.
-- 🤝 **Open To:** Full-stack engineering roles, AI-powered product development, and research collaborations.
+- 💻 **Web Engineering:** Architecting end-to-end applications—from responsive UIs and modular APIs to reliable data layers and containerized cloud deployments.
+- 🧠 **Applied AI Research:** Exploring **Computer Vision** and **Deep Learning** for real-time facial and behavioral analysis.
+- 🚀 **Focus:** Turning research-grade models into fast, maintainable production software.
 
 ---
 
@@ -66,12 +60,6 @@ Explore full papers and updates on [ResearchGate](https://www.researchgate.net/p
 
 ---
 
-### 📫 Get in Touch
-
-- **Email:** [luongvanlinh.45@gmail.com](mailto:luongvanlinh.45@gmail.com)
-- **LinkedIn:** [Luong Van Linh](https://www.linkedin.com/in/linh-l%C6%B0%C6%A1ng-679ba9275/)
-- **ResearchGate:** [Linh Luong Van](https://www.researchgate.net/profile/Linh-Luong-Van)
-
 <p align="center">
-  <sub>Thanks for visiting! Always open to discussing system design, full-stack engineering, and applied research.</sub>
+  <sub>Thanks for visiting! Always open to discussing system architecture, full-stack engineering, and applied AI research.</sub>
 </p>
