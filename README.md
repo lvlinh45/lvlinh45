@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luong Van Linh</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%E2%80%A2+M.Sc.+Student+in+Computer+Science;Architecting+scalable+web+systems+end-to-end;Researching+Computer+Vision%2C+NLP+%26+Multimodal+AI" alt="Full-Stack Developer tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%E2%80%A2+M.Sc.+Student+in+Computer+Science;Architecting+scalable+web+systems+end-to-end;Bridging+Web+Engineering+%26+Real-Time+Computer+Vision" alt="Full-Stack Developer tagline" />
 </div>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** and **Master's Student in Computer Science** at **Hue University** (alumnus of the Faculty of IT, **Nha Trang University**). My work bridges production web engineering with applied AI research—turning deep learning and computer vision models into practical, scalable systems.
+I'm a **Full-Stack Developer** and **Master's Student in Computer Science** (B.Sc. alumnus from the Faculty of Information Technology, **Nha Trang University**). My work bridges production web engineering with applied AI research—turning computer vision and deep learning models into practical, scalable systems.
 
-- 🎓 **Graduate Research:** Focusing on **Computer Vision**, **Natural Language Processing**, and **Multimodal AI** (Visual Question Answering, facial behavior analysis, and real-time detection).
+- 🎓 **Graduate Research:** Focusing on **Computer Vision**, **Deep Learning**, and real-time facial/behavioral analysis systems.
 - 💻 **Full-Stack Engineering:** Designing end-to-end web architectures—from responsive interfaces and modular APIs to reliable data layers and containerized cloud deployments.
 - 🤝 **Open To:** Full-stack engineering roles, AI-powered product development, and research collaborations.
 
@@ -34,9 +34,8 @@ I'm a **Full-Stack Developer** and **Master's Student in Computer Science** at *
 
 ### 🔬 Research & Publications
 
-- **Classroom VQA:** A Vietnamese Visual Question Answering dataset and a **PhoBERT–EVA02** Co-Cross-Attention baseline for classroom learning-behavior monitoring.
 - **Real-Time Driver Drowsiness Detection:** Temporal facial behavior analysis using facial landmark tracking and deep learning (*Journal of Science and Technology, University of Sciences, Hue University*).
-- **Intelligent Campus Systems:** Event attendance tracking and student conduct evaluation web application for the Faculty of Information Technology, Nha Trang University.
+- **Intelligent Campus Systems:** Event attendance tracking and student conduct evaluation application for the Faculty of Information Technology, Nha Trang University.
 
 Explore full papers and updates on [ResearchGate](https://www.researchgate.net/profile/Linh-Luong-Van).
 
